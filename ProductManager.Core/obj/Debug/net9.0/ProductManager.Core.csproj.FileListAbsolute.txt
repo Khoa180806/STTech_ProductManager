@@ -1,0 +1,12 @@
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\bin\Debug\net9.0\ProductManager.Core.deps.json
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\bin\Debug\net9.0\ProductManager.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\bin\Debug\net9.0\ProductManager.Core.pdb
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.csproj.AssemblyReference.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.AssemblyInfoInputs.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.AssemblyInfo.cs
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.csproj.CoreCompileInputs.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\refint\ProductManager.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.pdb
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ref\ProductManager.Core.dll

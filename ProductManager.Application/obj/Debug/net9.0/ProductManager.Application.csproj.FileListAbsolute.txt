@@ -1,0 +1,17 @@
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.deps.json
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.pdb
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Application.xml
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\bin\Debug\net9.0\ProductManager.Core.pdb
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.csproj.AssemblyReference.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.AssemblyInfoInputs.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.AssemblyInfo.cs
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.csproj.CoreCompileInputs.cache
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductM.B6266756.Up2Date
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\refint\ProductManager.Application.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.xml
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.pdb
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ref\ProductManager.Application.dll
