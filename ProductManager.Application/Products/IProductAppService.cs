@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using Abp.Application.Services;
 using Abp.Application.Services.Dto;
 using ProductManager.Products.Dto;
@@ -7,7 +7,7 @@ namespace ProductManager.Products;
 
 public interface IProductAppService : IApplicationService
 {
-    Task<ProductDto> GetAsync(int id);
+    Task<ProductDto> GetAsync(EntityDto<int> input);
     
     Task<PagedResultDto<ProductDto>> GetAllAsync(PagedProductResultRequestDto input);
     
@@ -15,5 +15,5 @@ public interface IProductAppService : IApplicationService
     
     Task<ProductDto> UpdateAsync(ProductDto input);
     
-    Task DeleteAsync(int id);
+    Task DeleteAsync(EntityDto<int> input);
 }

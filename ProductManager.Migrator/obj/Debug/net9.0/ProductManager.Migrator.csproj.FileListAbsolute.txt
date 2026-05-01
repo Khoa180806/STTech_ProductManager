@@ -90,3 +90,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Migrator\obj\Debug\net9.0
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Migrator\obj\Debug\net9.0\ProductManager.Migrator.pdb
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Migrator\obj\Debug\net9.0\ProductManager.Migrator.genruntimeconfig.cache
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Migrator\obj\Debug\net9.0\ref\ProductManager.Migrator.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Migrator\obj\Debug\net9.0\ProductManager.Migrator.sourcelink.json

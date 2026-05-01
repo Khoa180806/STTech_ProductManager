@@ -519,3 +519,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Host\obj\Debug\net9.0
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Host\obj\Debug\net9.0\ref\ProductManager.Web.Host.dll
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Host\obj\Debug\net9.0\compressed\05g7jql15y-pncflw6562.gz
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Host\obj\Debug\net9.0\compressed\26j5rl1qut-m67ilps0ib.gz
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Host\obj\Debug\net9.0\ProductManager.Web.Host.sourcelink.json

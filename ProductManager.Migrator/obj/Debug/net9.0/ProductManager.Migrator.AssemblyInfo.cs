@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53f734479ba60239327af987a68d305221a8fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c37c5e3f3668ff4bb6b476cff68d206d1cefff6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductManager.Migrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

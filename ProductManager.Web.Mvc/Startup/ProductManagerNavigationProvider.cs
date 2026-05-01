@@ -53,6 +53,22 @@ public class ProductManagerNavigationProvider : NavigationProvider
                     icon: "fas fa-theater-masks",
                     permissionDependency: new SimplePermissionDependency(PermissionNames.Pages_Roles)
                 )
+            ).AddItem(
+                new MenuItemDefinition(
+                    "Products",
+                    L("Products"),
+                    url: "Products",
+                    icon: "fas fa-box",
+                    permissionDependency: new SimplePermissionDependency(PermissionNames.Pages_Products)
+                )
+            ).AddItem(
+                new MenuItemDefinition(
+                    "Categories",
+                    L("Categories"),
+                    url: "Categories",
+                    icon: "fas fa-tags",
+                    permissionDependency: new SimplePermissionDependency(PermissionNames.Pages_Products)
+                )
             )
             .AddItem( // Menu items below is just for demonstration!
                 new MenuItemDefinition(

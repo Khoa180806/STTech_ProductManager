@@ -596,5 +596,6 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\9tis5dgjjo-mlqg7wv7i1.gz
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\dmqmvj40l4-5ej08e9llz.gz
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\ProductManager.Web.Mvc.sourcelink.json
-D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\jupmna912s-479gbtq9lo.gz
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\4kcmm8ufvi-dcdjcig8w8.gz
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\cg64dbyy27-mv58v8y6d0.gz
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Mvc\obj\Debug\net9.0\compressed\jupmna912s-lqu5fk4j3c.gz

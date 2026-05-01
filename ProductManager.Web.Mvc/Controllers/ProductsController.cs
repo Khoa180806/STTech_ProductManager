@@ -1,4 +1,5 @@
-﻿using Abp.AspNetCore.Mvc.Authorization;
+using Abp.AspNetCore.Mvc.Authorization;
+using Abp.Application.Services.Dto;
 using Microsoft.AspNetCore.Mvc;
 using ProductManager.Authorization;
 using ProductManager.Controllers;
@@ -36,7 +37,7 @@ public class ProductsController : ProductManagerControllerBase
     [AbpMvcAuthorize(PermissionNames.Pages_Products_Edit)]
     public async Task<IActionResult> Edit(int id)
     {
-        var product = await  _productAppService.GetAsync(id);
+        var product = await  _productAppService.GetAsync(new EntityDto<int>(id));
         return View(product);
     }
 }

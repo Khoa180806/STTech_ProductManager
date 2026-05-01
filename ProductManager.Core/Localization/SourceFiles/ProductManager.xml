@@ -61,6 +61,8 @@
     <text name="SuccessfullyRegistered">Successfully registered</text>
     <text name="WaitingForEmailActivation">Your email address should be activated</text>
     <text name="Roles">Roles</text>
+    <text name="Products">Products</text>
+    <text name="Categories">Categories</text>
     <text name="DisplayName">Display Name</text>
     <text name="Edit">Edit</text>
     <text name="Delete">Delete</text>

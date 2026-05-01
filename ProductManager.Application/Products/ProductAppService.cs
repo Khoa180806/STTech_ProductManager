@@ -33,14 +33,14 @@ namespace ProductManager.Products
         }
 
         [AbpAuthorize(PermissionNames.Pages_Products_Delete)]
-        public new async Task DeleteAsync(int id)
+        public override async Task DeleteAsync(EntityDto<int> input)
         {
-            await base.DeleteAsync(new EntityDto<int>(id));
+            await base.DeleteAsync(input);
         }
 
-        public new async Task<ProductDto> GetAsync(int id)
+        public override async Task<ProductDto> GetAsync(EntityDto<int> input)
         {
-            return await base.GetAsync(new EntityDto<int>(id));
+            return await base.GetAsync(input);
         }
 
         protected override IQueryable<Product> CreateFilteredQuery(PagedProductResultRequestDto input)

@@ -1,0 +1,81 @@
+@using ProductManager.Authorization
+@{
+    ViewBag.Title = "Danh sách danh mục";
+}
+
+@section scripts {
+    <script src="~/view-resources/Views/Categories/Index.js"></script>
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0 text-dark">@ViewBag.Title</h1>
+            </div>
+            <div class="col-sm-6 text-right">
+                @if (IsGranted(PermissionNames.Pages_Products_Create))
+                {
+                    <button id="CreateNewCategoryButton" class="btn btn-primary">
+                        <i class="fas fa-plus"></i> Thêm danh mục
+                    </button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Danh sách danh mục</h3>
+            </div>
+            <div class="card-body">
+                <table id="CategoriesTable" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên danh mục</th>
+                            <th>Mô tả</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="CategoryModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="CategoryModalLabel">Thêm danh mục</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="CategoryForm">
+                    <input type="hidden" id="CategoryId" />
+                    <div class="form-group">
+                        <label>Tên danh mục <span class="text-danger">*</span></label>
+                        <input type="text" id="CategoryName" class="form-control" required maxlength="128" />
+                    </div>
+                    <div class="form-group">
+                        <label>Mô tả</label>
+                        <textarea id="CategoryDescription" class="form-control" rows="3"></textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                <button type="button" id="SaveCategoryButton" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Lưu
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
