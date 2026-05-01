@@ -13,7 +13,7 @@ public interface IProductAppService : IApplicationService
     
     Task<ProductDto> CreateAsync(CreateProductInput input);
     
-    Task<ProductDto> UpdateAsync(int id, ProductDto input);
+    Task<ProductDto> UpdateAsync(ProductDto input);
     
     Task DeleteAsync(int id);
 }

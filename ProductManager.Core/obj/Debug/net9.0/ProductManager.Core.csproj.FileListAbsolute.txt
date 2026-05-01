@@ -10,3 +10,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\Pro
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\refint\ProductManager.Core.dll
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.pdb
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ref\ProductManager.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Core\obj\Debug\net9.0\ProductManager.Core.sourcelink.json

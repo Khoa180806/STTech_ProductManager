@@ -322,3 +322,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Core\obj\Debug\net9.0
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Core\obj\Debug\net9.0\ProductManager.Web.Core.xml
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Core\obj\Debug\net9.0\ProductManager.Web.Core.pdb
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Core\obj\Debug\net9.0\ref\ProductManager.Web.Core.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Web.Core\obj\Debug\net9.0\ProductManager.Web.Core.sourcelink.json

@@ -18,3 +18,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.EntityFrameworkCore\obj\D
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.EntityFrameworkCore\obj\Debug\net9.0\ProductManager.EntityFrameworkCore.pdb
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.EntityFrameworkCore\obj\Debug\net9.0\ProductManager.EntityFrameworkCore.genruntimeconfig.cache
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.EntityFrameworkCore\obj\Debug\net9.0\ref\ProductManager.EntityFrameworkCore.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.EntityFrameworkCore\obj\Debug\net9.0\ProductManager.EntityFrameworkCore.sourcelink.json

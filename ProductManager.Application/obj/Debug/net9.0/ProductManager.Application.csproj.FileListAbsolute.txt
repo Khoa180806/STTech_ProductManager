@@ -15,3 +15,4 @@ D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.xml
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.pdb
 D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ref\ProductManager.Application.dll
+D:\HocTap\STTech\10.2.0\aspnet-core\src\ProductManager.Application\obj\Debug\net9.0\ProductManager.Application.sourcelink.json
