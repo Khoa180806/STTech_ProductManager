@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductManager.Web.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53f734479ba60239327af987a68d305221a8fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5075ef0c16bb8a3d1d56b4241ba47773b7ccf9b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductManager.Web.Mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductManager.Web.Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
